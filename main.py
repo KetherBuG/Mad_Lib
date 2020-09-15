@@ -1,8 +1,5 @@
 
-#def stringy():
-   # import Stringz
-#def graphy():
-    #import Graphics
+
 
 class Menu:
     def __init__(self):
